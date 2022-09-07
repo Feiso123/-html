@@ -1,25 +1,33 @@
-body{
- background-image: url("https://img.freepik.com/free-photo/love-romance-perforated-paper-heart_53876-87.jpg?w=740&t=st=1662455767~exp=1662456367~hmac=87b50e95ae5e044c52126e5de17e3be61eadcc7b9436491ceb4d18713a887db3");
- background-repeat:no-repeat;
- background-size:cover;
- height: auto;
- width:auto;
+body {
+    background-image: url("https://img.freepik.com/free-photo/love-romance-perforated-paper-heart_53876-87.jpg?w=740&t=st=1662455767~exp=1662456367~hmac=87b50e95ae5e044c52126e5de17e3be61eadcc7b9436491ceb4d18713a887db3");
+    background-repeat: repeat;
+    background-size: cover;
+}
 
-
- }
-
-.BlackTaoWa{
-    color : rgb(48, 48, 201);
-    background-image:url("../image/Tupian.jpg");
-    background-size: cover;/* cover 覆盖 100% 100% 百分百显示图片*/
-    border:2px solid whitesmoke ;/*border 边界 solid坚固的(?*/
+.BlackTaoWa {
+    color: rgb(48, 48, 201);
+    background-image: url("../image/Tupian.jpg");
+    background-size: cover; /* cover 覆盖 100% 100% 百分百显示图片*/
+    border: 2px solid whitesmoke; /*border 边界 solid坚固的(?*/
     height: 250px;
-    width:200px;
-    
-    }
-.Imgtest{
-    color:rgb(35, 204, 204);
+    width: 200px;
+}
+.Imgtest {
+    color: rgb(35, 204, 204);
     color: coral;
-    
+}
 
+.title {
+    border: 2px solid black;
+}
+
+.inner-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#cat {
+    width: 50px;
+    height: 50px;
 }
