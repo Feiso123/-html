@@ -1,6 +1,6 @@
 body{
  background-image: url("https://img.freepik.com/free-photo/love-romance-perforated-paper-heart_53876-87.jpg?w=740&t=st=1662455767~exp=1662456367~hmac=87b50e95ae5e044c52126e5de17e3be61eadcc7b9436491ceb4d18713a887db3");
-background-repeat:no-repeat;
+ background-repeat:no-repeat;
  background-size:cover;
  height: auto;
  width:auto;
@@ -9,10 +9,17 @@ background-repeat:no-repeat;
  }
 
 .BlackTaoWa{
-    color : blue;
+    color : rgb(48, 48, 201);
     background-image:url("../image/Tupian.jpg");
     background-size: cover;/* cover 覆盖 100% 100% 百分百显示图片*/
     border:2px solid whitesmoke ;/*border 边界 solid坚固的(?*/
-    height:150px;
+    height: 250px;
     width:200px;
+    
+    }
+.Imgtest{
+    color:rgb(35, 204, 204);
+    color: coral;
+    
+
 }

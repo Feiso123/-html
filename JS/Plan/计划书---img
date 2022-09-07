@@ -1,0 +1,6 @@
+实操img的用处 投射照片，放置照片，给照片添加一个link
+主要在于height and width，还有,boder
+float,verticla-ign
+img scr alt:在未能显示图片的时候做为一个文字提示
+source
+<a href="https://www.w3schools.com"><img >
